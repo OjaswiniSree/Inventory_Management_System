@@ -3,8 +3,8 @@ Inventory Management System
 This project is a comprehensive Inventory Management System built using Python for the backend and a graphical user interface (GUI) for the frontend. The system facilitates the management of products, suppliers, categories, and sales, providing a user-friendly interface for efficient inventory control.
 
 Project Structure:
-
- Backend: Contains Python modules for database management and business logic.
+  Frontend/Backend:
+        Contains Python modules for database management and business logic.
         create_db.py: Manages database connectivity and operations.
         dashboard.py: Main dashboard for navigating through different modules.
         product.py: Handles product-related functionalities.
