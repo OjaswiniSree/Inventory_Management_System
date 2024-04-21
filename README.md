@@ -23,6 +23,7 @@ Ensure you have Python installed.
 Navigate to the frontend directory and run python login.py to start the application.
 
 Login credientials:
+
 Admin-
 empID - 4563
 password - oji@123
@@ -45,3 +46,6 @@ Technologies Used:
 Python
 Tkinter (for GUI)
 SQLite (for database)
+
+Reference:
+ "https://www.youtube.com/playlist?list=PL4P8sY6zvjk6ef4lpm6XiwJVRahLCp6DI"
